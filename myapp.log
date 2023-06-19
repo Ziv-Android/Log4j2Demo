@@ -1,0 +1,3 @@
+2023-06-19 15:56:30,289 [main] ERROR TestLog4j - error 错误信息, 系统出现错误
+2023-06-19 15:56:30,292 [main] WARN  TestLog4j - warn 警告信息, 可能会发生问题, 不会影响系统运行
+2023-06-19 15:56:30,292 [main] INFO  TestLog4j - info 运行信息, 数据连接、网络连接、I0操作等等
