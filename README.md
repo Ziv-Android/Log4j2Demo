@@ -143,7 +143,7 @@ log4j.rootLogger=DEBUG,Console
 ```
 
 ## 参考资料
-https://logging.apache.org/log4j/2.x/
-https://www.slf4j.org/docs.html
-https://zhuanlan.zhihu.com/p/39869648
-https://www.cnblogs.com/qlqwjy/p/9275415.html
+https://logging.apache.org/log4j/2.x/  
+https://www.slf4j.org/docs.html  
+https://zhuanlan.zhihu.com/p/39869648  
+https://www.cnblogs.com/qlqwjy/p/9275415.html  
